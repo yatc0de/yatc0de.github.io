@@ -1,0 +1,16 @@
+[
+	{
+		"id": 1,
+		"article_name": "#CyberSecurity | MiFi",
+		"article_image": "./assets/img/card.jpg",
+		"article_path": "/article/mifi-cyrus",
+		"article_detail": "artikel 1"
+	},
+	{
+		"id": 2,
+		"article_name": "#CyberSecurity | MiFi",
+		"article_image": "./assets/img/card.jpg",
+		"article_path": "/article/mifi-cyrus",
+		"article_detail": "artikel 2"
+	}
+]

@@ -1,0 +1,30 @@
+[
+	{
+		"id": 0,
+		"project_name": "CodeWithRPL",
+		"project_image": "./assets/img/card.jpg",
+		"project_detail": "ReactJs + MockAPI",
+		"project_status": "bi-check2-circle"
+	},
+	{
+		"id": 1,
+		"project_name": "Quizkuy",
+		"project_image": "./assets/img/card.jpg",
+		"project_detail": "ReactJs",
+		"project_status": "bi-x-circle"
+	},
+	{
+		"id": 2,
+		"project_name": "Igloader",
+		"project_image": "./assets/img/card.jpg",
+		"project_detail": "ReactJs + ExpressJs",
+		"project_status": "bi-check2-circle"
+	},
+	{
+		"id": 3,
+		"project_name": "E Voting",
+		"project_image": "./assets/img/card.jpg",
+		"project_detail": "PHP Native",
+		"project_status": "bi-check2-circle"
+	}
+]
